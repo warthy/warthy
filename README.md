@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-𝗜'𝗺 [Warthy](https://github.com/warthy), a computer science student (currrently working at ESA as a software engineer) 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 learning 𝗮𝗻𝗱 computer
+**I'm [Warthy](https://github.com/warthy), a french computer science student (currrently working at ESA as a software engineer)**
+**👨‍💻 Who is passionate about a lot of stuff including computer sciences**
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.warthy@gmail.com)](mailto:dev.warthy@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/7708412)
@@ -9,18 +10,16 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog: http://yaronzz.top
+- 👨‍💻 My blog: on it's way !
 - 📫 How to reach me: dev.warthy@gmail.com
 - 🌱 Languages and Tools: 
     <div>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-        <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/intellij-idea.svg"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     </div>
 
