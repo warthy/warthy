@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm [Warthy](https://github.com/warthy), a french computer science student (currrently working at ESA as a software engineer 🚀)**
+**I'm [Warthy](https://github.com/warthy) (Paul V), a french computer science student (currrently working at ESA as a software engineer 🚀)**  
 **I love learning new stuffs, develop them from scratch and deploy them to scale.**
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.warthy@gmail.com)](mailto:dev.warthy@gmail.com)
@@ -12,8 +12,7 @@
 
 - 👨‍💻 My blog: on it's way !
 - 📫 How to reach me: dev.warthy@gmail.com
-- 🌱 Languages and Tools:
-    </br> 
+- 🌱 Languages and Tools:  
     <div>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
