@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **I'm [Warthy](https://github.com/warthy) (Paul V), a french computer science student (currrently working at ESA as a software engineer 🚀)**  
-**I love learning new stuffs, developing them and deploying them to scale.**
+**I love learning & developing new stuffs, to deploy them to scale.**
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.warthy@gmail.com)](mailto:dev.warthy@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/warthy)](https://github.com/warthy)
