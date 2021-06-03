@@ -10,7 +10,7 @@
 
 ## 🧐 About me
 
-- 👨‍💻 My blog: on it's way !
+- 👨‍💻 My blog: on its way !
 - 📫 How to reach me: dev.warthy@gmail.com
 - 🌱 Languages and Tools:  
     <div>
