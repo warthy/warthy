@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm [Warthy](https://github.com/warthy), a french computer science student**  
+**I'm [Warthy](https://github.com/warthy), a french computer science graduate, currently working at Datadog**  
 **I love learning & developing new stuff and deploy them to scale.**
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.warthy@gmail.com)](mailto:dev.warthy@gmail.com)
